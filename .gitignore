@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+.pip-cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dados brutos grandes (reconstruíveis a partir do ZIP original)
+data/raw/
+
+# ZIP original dos microdados (~44 MB)
+microdados_enade_2023.zip

@@ -1,0 +1,16 @@
+{
+  "n_cursos": 7723,
+  "media_target": 47.305757282426114,
+  "mediana_target": 46.86774193548387,
+  "desvio_target": 9.690339323204336,
+  "limiar_target_treino": 46.81622807017544,
+  "prevalencia_classe_1": 0.5017480253787389,
+  "maior_taxa_nulos": 0.0,
+  "top_correlacoes_spearman": {
+    "PROP_QE_I10_E": -0.6173426753923014,
+    "PROP_QE_I10_A": 0.571519317593458,
+    "PROP_TURNO_4": -0.41776930479676816,
+    "PROP_QE_I23_B": -0.41385507410694844,
+    "PROP_QE_I25_E": 0.3757907783695738
+  }
+}

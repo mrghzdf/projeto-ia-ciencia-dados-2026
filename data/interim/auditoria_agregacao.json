@@ -1,0 +1,18 @@
+{
+  "conflitos_atributos_curso": {
+    "NU_ANO": 0,
+    "CO_IES": 0,
+    "CO_CATEGAD": 0,
+    "CO_ORGACAD": 0,
+    "CO_GRUPO": 0,
+    "CO_MODALIDADE": 0,
+    "CO_MUNIC_CURSO": 0,
+    "CO_UF_CURSO": 0,
+    "CO_REGIAO_CURSO": 0
+  },
+  "linhas_antes_filtro_nota": 9812,
+  "linhas_com_nota_valida": 9380,
+  "duplicatas_curso_removidas": 0,
+  "colunas_dataset": 97,
+  "regra_uniao": "agregar cada arquivo por CO_CURSO antes de unir; nunca unir estudantes"
+}
