@@ -1,4 +1,4 @@
-# Projeto ABP -- Do Dado ao Valor
+# Projeto ABP - Do Dado ao Valor
 
 ## Aplicacao de Machine Learning para Analise Preditiva do Desempenho dos Cursos no ENADE 2023
 
